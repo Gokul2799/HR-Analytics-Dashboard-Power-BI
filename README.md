@@ -11,7 +11,7 @@ This Power BI dashboard analyzes employee attendance data for April, May, and Ju
 - **Employee Metrics Table:** Detailed individual metrics.
 
 ## Screenshots
-![Dashboard Overview](HR Analytics Dashboard.png)
+![Dashboard Overview](HR_Analytics.png)
 
 ## Dataset
 Utilizes a single dataset with columns:
