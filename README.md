@@ -14,6 +14,7 @@ This Power BI dashboard analyzes employee attendance data for April, May, and Ju
 ![Dashboard Overview](HR_Analytics.png)
 
 ## Dataset
+The dataset contains employee attendance data for April, May, and June 2022 of a IT Hardware Company.
 Utilizes a single dataset with columns:
 - Date
 - Employee Code
