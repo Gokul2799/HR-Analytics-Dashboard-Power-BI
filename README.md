@@ -24,7 +24,7 @@ Utilizes a single dataset with columns:
 
 ## How to Use
 1. Clone the repository.
-2. Open `HR_Analytics_Dashboard.pbix` using Power BI Desktop.
+2. Open `HR Analytics Project.pbix` using Power BI Desktop.
 3. Configure data connections.
 4. Refresh data for the latest insights.
 5. Explore visualizations and metrics.
