@@ -10,6 +10,9 @@ This Power BI dashboard analyzes employee attendance data for April, May, and Ju
 - **Date-wise Analysis:** Track presence, sick leave, and WFH percentages over time.
 - **Employee Metrics Table:** Detailed individual metrics.
 
+## Screenshots
+![Dashboard Overview](HR_Analytics_Dashboard.png)
+
 ## Dataset
 Utilizes a single dataset with columns:
 - Date
